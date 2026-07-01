@@ -118,5 +118,3 @@ nltk.download('averaged_perceptron_tagger_eng')
 4. Run the notebook in **Google Colab** or **Jupyter Notebook**
 
 ---
-
-## 👤 Author
